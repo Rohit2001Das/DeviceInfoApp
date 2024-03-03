@@ -13,3 +13,5 @@ Extensions are added to the UIDevice class to encapsulate the logic for retrievi
 UIDevice.deviceDetails is a static computed property that concatenates various device details, such as model, iOS version, serial number, storage, battery level, and processor information.
 
 The processorInfo method within the extension extracts CPU information using system calls.
+
+![App Screenshot](appscreenshot.png)
